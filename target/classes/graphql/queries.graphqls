@@ -1,7 +1,0 @@
-type Query {
-    getEmployees: [Employee]
-    getEmployee(id: ID!): Employee
-    getEmployeeByName(name: String!): [Employee]
-    getDepartments: [Department]
-    getDepartment(id: ID!): Department
-}

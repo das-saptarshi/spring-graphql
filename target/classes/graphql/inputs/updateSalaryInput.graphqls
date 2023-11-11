@@ -1,4 +1,0 @@
-input UpdateSalaryInput {
-    id: ID!
-    salary: Int!
-}

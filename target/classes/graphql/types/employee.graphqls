@@ -1,7 +1,0 @@
-type Employee {
-    id: ID
-    name: String
-    email: String
-    salary: Int
-    departmentId: ID
-}
