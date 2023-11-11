@@ -1,0 +1,5 @@
+type Mutation {
+    addEmployee(employee: EmployeeInput): Employee
+    updateSalary(updateSalary: UpdateSalaryInput): Employee
+    addDepartment(department: DepartmentInput): Department
+}

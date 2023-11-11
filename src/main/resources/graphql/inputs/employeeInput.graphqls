@@ -1,0 +1,6 @@
+input EmployeeInput {
+    name: String!
+    email: String!
+    salary: Int!
+    departmentId: ID!
+}
