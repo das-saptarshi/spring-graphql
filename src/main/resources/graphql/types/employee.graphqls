@@ -3,5 +3,5 @@ type Employee {
     name: String
     email: String
     salary: Int
-    departmentId: ID
+    department: Department
 }
